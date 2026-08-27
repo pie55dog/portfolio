@@ -83,7 +83,7 @@ function App() {
 	return (
 		<main>
 			<header className="landing">
-				<h1>Grace Bishara</h1>
+				<h1 className="landing-title">Grace Bishara</h1>
 				<nav className="project-nav" aria-label="Projects">
 					{projects.map(([id, number, title]) => (
 						<a href={`#${id}`} key={id}><span>{number}</span>{title}</a>

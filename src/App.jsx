@@ -118,7 +118,7 @@ function App() {
 			</header>
 
 			<Section id="magazine" number="01" title="Senior Magazine" blurb={'Each year, the seniors in the yearbook class create a magazine honoring the graduating class. I designed, oversaw, and produced the 2026 edition, “Roll Credits.” '}><MagazineSlideshow /></Section>
-			<Section id="yearbook-2026" number="02" title="Yearbook 2026" blurb={'blurb here\npart 2 blurb'}>
+			<Section id="yearbook-2026" number="02" title="Yearbook 2026" blurb={'An overview of my 2026 high school yearbook, “the threads between us.” I served Co-Editor-In-Chief and design lead. When creating this book, we played around with mixing typefaces and lines, ultimately amplifying a theme of connections between the people in our school community. All of the spreads here and the cover were designed by me.\n\nAll of our yearbook work is done in InDesign. I did not take any of the photos on these pages'}>
 				<ThreadsGallery />
 			</Section>
 			<Section id="yearbook" number="03" title="Yearbook 2025" blurb={'A project overview and style guide from my 11th grade yearbook.\n\nIn junior year, I was one of three Editors-in-Chief and design lead. I collaborated and received feedback on all of the pages you see displayed, but the design and writing were created and finalized by me. The theme (which includes the colors, fonts, vibe, etc) was a team effort, but I was its primary creator and I designed most elements on the style guide, including the folio, motifs, colors, and typography style. I also created the cover.\n\nAll of our yearbook work is done in InDesign. I did not take any of the photos on these pages.'}>

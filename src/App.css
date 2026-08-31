@@ -28,7 +28,7 @@ h1 {
 }
 
 .landing-title {
-  color: #1845e8;
+  color: #1f3dac;
   font-family: 'BNGrainville', cursive; 
   letter-spacing: 0.000em;
 
@@ -54,6 +54,11 @@ h2 { font-size: clamp(1.7rem, 3vw, 3rem); line-height: .95; font-weight: 400; le
 .slide-count { color: var(--muted); text-align: right; font-size: 11px; margin: 10px 42px 34px 0; }
 .magazine-details { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .magazine-details img { width: 100%; aspect-ratio: 1.55; object-fit: cover; }
+.threads-work { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; align-items: start; }
+.threads-work img { width: 100%; height: auto; object-fit: contain; background: #eeeeeb; }
+.threads-cover, .threads-vertical { max-height: 72vh; }
+.threads-07, .threads-seniors, .threads-opening, .threads-teams, .threads-normal { max-height: 60vh; }
+.threads-07, .threads-seniors, .threads-opening { grid-column: 1 / -1; }
 .yearbook-work { display: grid; gap: 24px; }
 .yearbook-work img { width: 100%; }
 .sputnik-work { display: grid; grid-template-columns: 1.08fr .92fr; gap: 18px; align-items: start; }

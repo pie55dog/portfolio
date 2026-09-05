@@ -61,6 +61,7 @@ h2 { font-size: clamp(1.7rem, 3vw, 3rem); line-height: .95; font-weight: 400; le
 .threads-07, .threads-seniors, .threads-opening { grid-column: 1 / -1; }
 .yearbook-work { display: grid; gap: 24px; }
 .yearbook-work img { width: 100%; }
+.amped-work img { width: 100%; }
 .sputnik-work { display: grid; grid-template-columns: 1.08fr .92fr; gap: 18px; align-items: start; }
 .sputnik-work img { width: 100%; height: 100%; object-fit: contain; background: #eeeeeb; }
 .sputnik-wide { grid-column: 1 / -1; }
